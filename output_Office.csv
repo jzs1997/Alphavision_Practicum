@@ -1,0 +1,3 @@
+,Property_name,xirr,flag,first_sale_price,second_sale_price,time,first_sale_date,second_sale_date,year_built,lat,long
+0,Comcast Building Tucson_1987.0_211152.0_32.2921067_-110.976277_0,0.16062993148884802,Inflate/Deflate with CPI,23900000.0,27150000.0,1.4438356164383561,2017/11/28,2019/05/09,1987.0,32.2921067,-110.976277
+1,Williams Centre Technology Campus_1998.0_196179.0_32.220462_-110.879474_0,0.1259787097507399,Inflate/Deflate with CPI,30600000.0,37742000.0,5.240437158469946,2002/10/22,2008/01/18,1998.0,32.220462,-110.879474

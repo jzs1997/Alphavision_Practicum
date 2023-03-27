@@ -1,0 +1,4 @@
+Property ID,Status,Type,Date,Property Name,Address,Units,sf,Yr Built,Price ($),Cap Rate,Latitude,Longitude,Noi,CashFlow,time_diff
+1919806,Sale,Apartment,2018/3/19,Orange Tree Village,645 W Orange Grove Rd,110,,1981,10525000.0,0.0,32.3211565,-110.9789088,0.0,-10525000.0,0.0
+1919806,Sale,Apartment,2019/03/19,Orange Tree Village,645 W Orange Grove Rd,110,,1981,10525000.0,0.0,32.3211565,-110.9789088,824951.809942826,824951.809942826,1.0
+2158057,Sale,Apartment,2019/7/15,Orange Tree Village,645 W Orange Grove Rd,110,,1981,15900000.0,5.44,32.3211565,-110.9789088,274331.0046190105,15856331.00461901,0.3232876712328767

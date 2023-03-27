@@ -1,0 +1,4 @@
+Property ID,Status,Type,Date,Property Name,Address,Units,sf,Yr Built,Price ($),Cap Rate,Latitude,Longitude,Noi,CashFlow,time_diff
+1952830,Sale,Apartment,2018/4/11,Los Portales Apartments,801 S Prudence Rd,416,280812,1987,26025000.0,4.78,32.2105899,-110.8307962,0.0,-26025000.0,0.0
+1952830,Sale,Apartment,2019/04/11,Los Portales Apartments,801 S Prudence Rd,416,280812,1987,26025000.0,4.78,32.2105899,-110.8307962,1243995.0,1243995.0,1.0
+2285409,Sale,Apartment,2019/11/22,Los Portales Apartments,801 S Prudence Rd,416,280812,1987,40000000.0,0.0,32.2105899,-110.8307962,789824.3184157856,39989824.31841578,0.6164383561643836

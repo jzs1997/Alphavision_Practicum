@@ -1,0 +1,4 @@
+Property ID,Status,Type,Date,Property Name,Address,Units,sf,Yr Built,Price ($),Cap Rate,Latitude,Longitude,Noi,CashFlow,time_diff
+19314,Sale,Apartment,2004/9/5,Tierra Bonita,175 W Valencia Rd,410,283659,1984,11625000.0,7.25,32.1332959,-110.9711483,0.0,-11625000.0,0.0
+19314,Sale,Apartment,2005/09/05,Tierra Bonita,175 W Valencia Rd,410,283659,1984,11625000.0,7.25,32.1332959,-110.9711483,842812.5,842812.5,1.0
+74067,Sale,Apartment,2006/4/27,Tierra Bonita,175 W Valencia Rd,410,283659,1984,16250000.0,6.13,32.1332959,-110.9711483,589467.6369863014,16514467.636986302,0.6410958904109589

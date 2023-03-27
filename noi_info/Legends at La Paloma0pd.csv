@@ -1,0 +1,4 @@
+Property ID,Status,Type,Date,Property Name,Address,Units,sf,Yr Built,Price ($),Cap Rate,Latitude,Longitude,Noi,CashFlow,time_diff
+665814,Sale,Apartment,2010/10/1,Legends at La Paloma,3750 E Via Palomita,312,325648,1995,30200000.0,7.1,32.3122278,-110.9134214,0.0,-30200000.0,0.0
+665814,Sale,Apartment,2011/10/01,Legends at La Paloma,3750 E Via Palomita,312,325648,1995,30200000.0,7.1,32.3122278,-110.9134214,2144200.0,2144200.0,1.0
+870910,Sale,Apartment,2012/6/20,Legends at La Paloma,3750 E Via Palomita,312,325648,1995,35150000.0,6.5,32.3122278,-110.9134214,1610500.8621740846,36057500.862174086,0.7185792349726776

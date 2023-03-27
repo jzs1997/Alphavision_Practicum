@@ -1,0 +1,5 @@
+Property ID,Status,Type,Date,Property Name,Address,Units,sf,Yr Built,Price ($),Cap Rate,Latitude,Longitude,Noi,CashFlow,time_diff
+2088245,Sale,Apartment,2018/11/30,Casa Del Coronado Apartments,201 W Blacklidge Dr,208,112940,1983,11200000.0,5.676,32.2610864,-110.9745484,0.0,-11200000.0,0.0
+2088245,Sale,Apartment,2019/11/30,Casa Del Coronado Apartments,201 W Blacklidge Dr,208,112940,1983,11200000.0,5.676,32.2610864,-110.9745484,635712.0,635712.0,1.0
+2088245,Sale,Apartment,2020/11/30,Casa Del Coronado Apartments,201 W Blacklidge Dr,208,112940,1983,11200000.0,5.676,32.2610864,-110.9745484,655109.3402842429,655109.3402842429,1.0
+3194049,Sale,Apartment,2021/11/22,Casa Del Coronado Apartments,201 W Blacklidge Dr,208,112940,1983,27500000.0,0.0,32.2610864,-110.9745484,654684.1343873576,27604684.13438736,0.9780821917808219
